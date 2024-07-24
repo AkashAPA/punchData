@@ -1,0 +1,24 @@
+{
+  "allData": {
+        "loginData": [
+      {
+        "empId":"001",
+        "firstName": "Akash",
+        "lastName": "Patil",
+        "username": "a",
+        "password": "a"
+      }
+    ],
+    "punchData":[
+      {
+        "empId":"001",
+        "firstName":"Akash",
+        "lastName":"Patil",
+        "dateOfPunch": "2024-07-25",
+        "timeOfPunch": "09:15 AM",
+        "status": "punchIn"
+
+      }
+    ]
+  }
+}
