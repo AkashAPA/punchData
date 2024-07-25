@@ -18,6 +18,42 @@
         "timeOfPunch": "09:15 AM",
         "status": "punchIn"
 
+      },
+      {
+        "empId":"001",
+        "firstName":"Akash",
+        "lastName":"Patil",
+        "dateOfPunch": "21-07-2024",
+        "timeOfPunch": "09:20 AM",
+        "status": "punchIn"
+
+      },
+      {
+        "empId":"001",
+        "firstName":"Akash",
+        "lastName":"Patil",
+        "dateOfPunch": "21-07-2024",
+        "timeOfPunch": "06:15 AM",
+        "status": "punchOut"
+
+      },
+      {
+        "empId":"001",
+        "firstName":"Akash",
+        "lastName":"Patil",
+        "dateOfPunch": "21-07-2024",
+        "timeOfPunch": "06:30 AM",
+        "status": "punchOut"
+
+      },
+      {
+        "empId":"002",
+        "firstName":"Omkar",
+        "lastName":"Varkhade",
+        "dateOfPunch": "21-07-2024",
+        "timeOfPunch": "09:15 AM",
+        "status": "punchIn"
+
       }
     ]
   }
